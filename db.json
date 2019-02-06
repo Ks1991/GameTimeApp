@@ -1,0 +1,62 @@
+{
+  "players": [
+    {
+      "value": "zzzz",
+      "rating": 4,
+      "isPay": false,
+      "amount": 0,
+      "id": 1
+    },
+    {
+      "value": "xxxxx",
+      "rating": 2,
+      "isPay": false,
+      "amount": 0,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "Email": "ks@gmail.com",
+      "Password": "69013f06f0f50f1cd8969db803ad6d00",
+      "Username": "ks",
+      "id": 1
+    },
+    {
+      "Email": "ks@gmail.com",
+      "Password": "69013f06f0f50f1cd8969db803ad6d00",
+      "Username": "kss",
+      "id": 2
+    },
+    {
+      "Email": "player@gmail.com",
+      "Password": "69013f06f0f50f1cd8969db803ad6d00",
+      "Username": "player1",
+      "id": 3
+    },
+    {
+      "Email": "Ks@gmail.com",
+      "Password": "69013f06f0f50f1cd8969db803ad6d00",
+      "Username": "ksss",
+      "id": 4
+    },
+    {
+      "Email": "new@gmail.com",
+      "Password": "69013f06f0f50f1cd8969db803ad6d00",
+      "Username": "NEW",
+      "id": 5
+    },
+    {
+      "Email": "ks@gmail.com",
+      "Password": "69013f06f0f50f1cd8969db803ad6d00",
+      "Username": "NEWU",
+      "id": 6
+    },
+    {
+      "Email": "ks@gmail.com",
+      "Password": "69013f06f0f50f1cd8969db803ad6d00",
+      "Username": "Kirill",
+      "id": 7
+    }
+  ]
+}
